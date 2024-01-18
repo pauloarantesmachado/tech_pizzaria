@@ -19,4 +19,4 @@
 
 
 <h2>Database relationships:</h2>
-<img src="img/dta_base.png"/>
+<img src="/img/dta_base.png"/>
