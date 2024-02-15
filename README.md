@@ -13,9 +13,6 @@
 <p>▪️ Register of Ingredient</p>
 <p>▪️ Register of Request<p>
 
-  
-<h2>Instructor:</h2>
-<p>Rodrigo Ferreira</p>
 
 
 <h2>Database relationships:</h2>
